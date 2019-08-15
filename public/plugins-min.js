@@ -1,1 +1,0 @@
-GA=GA||{};GA.plugins=function(d){d.move=function(a){if(!1===a instanceof Array)a.x+=a.vx|0,a.y+=a.vy|0;else for(var c=0;c<a.length;c++){var b=a[c];b.x+=b.vx|0;b.y+=b.vy|0}}};
